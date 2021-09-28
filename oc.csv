@@ -1,0 +1,6 @@
+﻿OC_ID,OrderClass,ClassDescription
+1,VOR,VOR
+2,DAY,Day/Emergency order
+3,STO,Stock order
+4,MIX,Mixed day and stock order
+5,Unknown,Unknown
