@@ -4,7 +4,7 @@ Analytics Ignition Booster challenges
 Hi Guys!
 Taking part is SML Analytics Challenges. 
 
-
+WEEK1
 
 <p align="center">
   <b>Africa</b>
@@ -17,3 +17,6 @@ Taking part is SML Analytics Challenges.
   <img src="https://github.com/rajratnapatil9/SML-Analysis/blob/main/southamerica.PNG"  title="South America">
   
 </p>
+WEEK 2-3
+<br>
+<img src="https://github.com/rajratnapatil9/SML-Analysis/blob/main/Availablestockquantity.gif"  title="AvalibleStockQty">
